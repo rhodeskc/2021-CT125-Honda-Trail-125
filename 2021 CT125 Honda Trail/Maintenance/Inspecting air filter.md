@@ -34,5 +34,5 @@ Inspect and replace air filter as needed.
 - ELEMENT, AIR CLEANER P/N 17210-K2E-T00
 
 %%
-Tags: #maintenance_schedule_servicing
+Tags: #ScheduledServicing
 %%
