@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "2af48fcf07ed4257",
+    "type": "split",
+    "children": [
+      {
+        "id": "0113f7d09e6b97ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Maintenance/Inspecting air filter.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67a76cbd790b7635",
+    "type": "split",
+    "children": [
+      {
+        "id": "93002999765baeec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044f31b9bd2e1c1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71d08d230137d6fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "063d393d17ab6ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfcaa4c9752a8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0fe07f98a4a6b3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maintenance/Inspecting air filter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0113f7d09e6b97ea",
+  "lastOpenFiles": [
+    "Maintenance/Inspecting air filter.md",
+    "Maintenance/Swapping suspension.md",
+    "Maintenance/Removing Exhaust.md"
+  ]
+}
