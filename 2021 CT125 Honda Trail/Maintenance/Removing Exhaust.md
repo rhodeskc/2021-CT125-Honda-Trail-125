@@ -19,9 +19,6 @@
 > - Exhaust Pipe/Muffler, pg 3-19
 > - Under cover (skid plate), pg 3-11
 
-
-
-
 ## Removing body panel 83600-K2E-A00ZA (under muffler)
 1. Remove Philip's 4mm Pan head head screw to the rear. P/N 90132-MJE-D40
 2. Push pin on under side. P/N 90116-SP0-003
