@@ -46,7 +46,7 @@ I also bought some OPMID screen protectors and installed them at the same time, 
 3. You can pass the screwdriver through the back of the headlight housing to access the screws on the instrumentation.
 4. When installing the OPMID multimeter, the original speedometer used two washers on the left and right screws. The OPMID does not use those washers.
 5. I couldn't reach the clip that holds the lowest point of the oil sensor cable without dropping the skidplate the first time. It's possible to reach it without doing that, but it's much easier to do it with the skidplate off.
-6. The spade connector for the tacho was VERY stiff. If this falls out for any reason the engine will stop working. Make sure it's in completely (hence removing the front bolt)
+6. The spade connector for the tacho was VERY stiff. If this falls out for any reason the engine will stop working. Make sure it's in completely (hence removing the front bolt to make sure it's done properly).
 
 
 ## Configure the OPMID cluster
