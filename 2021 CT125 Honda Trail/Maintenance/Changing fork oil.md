@@ -24,3 +24,4 @@
 If the handlebars are in the forward position, you'll need to remove the handlebars before removing the fork caps.
 1. Remove the 4 socket bolt caps on the handlebar holder bolts. A sharp blade to pry up the caps may help.
 2. Using a 6mm hex key, remove the 4 bolts from the upper handlebar holder.
+
