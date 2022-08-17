@@ -1,7 +1,5 @@
 # Adding SAE connectors to the battery
 
-> [!warning] This section is incomplete.
-
 The purpose of this is generally to add battery tenders connectors, however choosing the right SAE connectors will allow the battery to be connected to the overall charging system, with the battery itself stabilizing any fluctuation in the stator output.
 
 > [!info]+
