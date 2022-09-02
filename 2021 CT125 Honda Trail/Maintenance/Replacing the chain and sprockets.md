@@ -52,8 +52,8 @@ There are two ways to do this. The more mainstream method is to remove the left 
 The second method is to use the first chain to feed the second chain through, cut it to length, and then secure it with a master link. This either requires counting the number of links, knowing the length of the chain ahead of time, or very accurately calculating which of the links needs to be broken. If you already have a length of chain to compare to or know the exact length of chain to cut, this method is faster.
 
 1. Take a photo of the old master link orientation. This is mostly for peace of mind later to know you installed it the same way.
-2. Remove the master link from the old chain. Usually achieved with a set of pliers to remove the master link clip. Can also be done with a chain breaker if frustrated enough or using the Motion Pro Master Link Press tool.
-3. Mark the old chain next to the master link such that you can install it in the same front-back, same up-down as it was originally. I usually clean the link a little, add a mark on it, and take a photo.
+2. Mark the old chain next to the master link such that you can install it in the same front-back, same up-down as it was originally. I usually clean the link a little, add a mark on it, and take a photo.
+3. Remove the master link from the old chain. Usually achieved with a set of pliers to remove the master link clip. Can also be done with a chain breaker if frustrated enough or using the Motion Pro Master Link Press tool.
 4. Remove the old chain.
 5. Lay it out alongside the new chain. Note that due to chain stretch, the rollers won't match up exactly, so adjust the chain to find out where the old chain ends against the new chain.
 6. Mark off which pin you're going to remove. Measure twice, cut once.
