@@ -1,4 +1,4 @@
-# Title
+# {{Title}}
 > [!info] Video guide
 > -   Any relevant youtube videos
 
