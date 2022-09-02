@@ -48,6 +48,5 @@ I also bought some OPMID screen protectors and installed them at the same time, 
 5. I couldn't reach the clip that holds the lowest point of the oil sensor cable without dropping the skidplate the first time. It's possible to reach it without doing that, but it's much easier to do it with the skidplate off.
 6. The spade connector for the tacho was VERY stiff. If this falls out for any reason the engine will stop working. Make sure it's in completely (hence removing the front bolt to make sure it's done properly).
 
-
 ## Configure the OPMID cluster
 It took me the longest time to figure out how to access the 1.4 menu for the odometer, etc. Ends up when you hold the A and B buttons together, if you hold them for 3s it does an adjust, and if you hold them for 6 seconds it enters the "bigger adjustment" mode (it will say ADJ at first, then FULL after 6s).
