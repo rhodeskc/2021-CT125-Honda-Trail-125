@@ -85,21 +85,23 @@ Being able to support the weight of the rear wheel will make this step easier wh
 2. Using a 12mm and 10mm wrench (12mm closer to the axle), loosen the 10mm nut off the end to release the lock
 3. Loosen the 12mm nut evenly on both sides to add slack to the chain. I use 1/6 turns (flat to flat) to turn it evenly on both sides.
 4. Once adequately loose, remove the rear axle by removing the nut to the left. Visually order from left to right is:
-| Position | Part | Part number | 
-| ---- | ---- | --- |
-| 1 | AXLE, FR. WHEEL (FOR RR.) | 44301-K01-900 |
-| 2 | WASHER, RR. AXLE | 90501-K0G-900 |
-| 3 | PLATE, SWINGARM SIDE | 90559-K0G-900|
-| 4 | Swingarm (is not removed) | |
-| 5 | ADJUSTER, CHAIN (inside swingarm, has prong on underside) | 40543-K0G-900 |
-| 6 | Rear wheel | |
-| 7 | BRACKET SUB-ASSY., RR. (Rear brake sub assembly) | 43190-K2E-T01 |
-| 8 | COLLAR, R. RR. WHEEL SIDE | 42313-KTM-750 |
-| 9 | Swingarm (is not removed) | | 
-| 10 | ADJUSTER, CHAIN (inside swingarm, has prong on underside) | 40543-K0G-900 |
-| 11 | PLATE, SWINGARM SIDE | 90559-K0G-900	|
-| 12 | WASHER, RR. AXLE | 90501-K0G-900 |
-| 13 | NUT, U (12MM) | 90306-K0G-901 |
+
+| Position | Part                                                      | Part number   |
+|----------|-----------------------------------------------------------|---------------|
+| 1        | AXLE, FR. WHEEL (FOR RR.)                                 | 44301-K01-900 |
+| 2        | WASHER, RR. AXLE                                          | 90501-K0G-900 |
+| 3        | PLATE, SWINGARM SIDE                                      | 90559-K0G-900 |
+| 4        | Swingarm (is not removed)                                 |               |
+| 5        | ADJUSTER, CHAIN (inside swingarm, has prong on underside) | 40543-K0G-900 |
+| 6        | COLLAR, RR. WHEEL SIDE                                    | 42304-K2E-T00 |
+| 7        | Rear wheel                                                |               |
+| 8        | BRACKET SUB-ASSY., RR. (Rear brake sub assembly)          | 43190-K2E-T01 |
+| 9        | COLLAR, R. RR. WHEEL SIDE                                 | 42313-KTM-750 |
+| 10       | Swingarm (is not removed)                                 |               |
+| 11       | ADJUSTER, CHAIN (inside swingarm, has prong on underside) | 40543-K0G-900 |
+| 12       | PLATE, SWINGARM SIDE                                      | 90559-K0G-900 |
+| 13       | WASHER, RR. AXLE                                          | 90501-K0G-900 |
+| 14       | NUT, U (12MM)                                             | 90306-K0G-901 |
 
 ### Remove and replace the rear sprocket
 1. 4 nuts holding the rear sprocket on. The nuts have a small cut-in on the outside of them that locks them in place firmly, note that they face outwards on replacing the sprocket.
