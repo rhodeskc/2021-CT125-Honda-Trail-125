@@ -24,7 +24,8 @@
 > - Torque wrench (59 Nm max, 12 Nm min)
 > - 14mm wrench (rear axle bolt)
 > - 19mm socket (rear axle nut)
-> - 8mm socket (front sprocket cover, rear sprocket nuts, front sprocket nuts)
+> - 8mm socket (front sprocket cover, rear sprocket nuts)
+> - 10mm thin wall socket (front sprocket nuts - regular sockets will hit the countershaft)
 > - Blue loctite
 > 
 > Torque specs:
