@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9a0df53ffc00c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maintenance/Valve Adjustment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maintenance/Changing fork oil.md",
+                "file": "Maintenance/Valve Adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,10 +118,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b419942c4f6d351e",
+  "active": "e9a0df53ffc00c38",
   "lastOpenFiles": [
-    "Maintenance/Changing the oil.md",
     "Maintenance/Changing fork oil.md",
+    "Maintenance/Valve Adjustment.md",
+    "Maintenance/Changing the oil.md",
     "Maintenance/Cleaning the Spark Arrestor.md"
   ]
 }
