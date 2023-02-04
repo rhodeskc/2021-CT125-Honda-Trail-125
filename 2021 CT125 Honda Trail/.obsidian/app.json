@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": false
 }
