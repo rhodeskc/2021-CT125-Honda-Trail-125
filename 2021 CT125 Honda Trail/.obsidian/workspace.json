@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ef08f626f75bbbde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b419942c4f6d351e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maintenance/Changing fork oil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "6cb2be1d76b8d3a5",
         "type": "tabs",
         "children": [
@@ -131,10 +113,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b419942c4f6d351e",
+  "active": "dcff848c39c83a20",
   "lastOpenFiles": [
-    "Attachments/MakeshiftDepthGuide.jpg",
+    "CT125 Manual References/Trail-125A-Service-Manual.pdf",
+    "CT125 Manual References/2021_Honda_Trail_Manual.pdf",
+    "CT125 Manual References/Owners_Manual_-_Storing_the_bike.png",
     "Maintenance/Changing fork oil.md",
+    "Attachments/MakeshiftDepthGuide.jpg",
     "Maintenance/Changing the oil.md",
     "Maintenance/Cleaning the Spark Arrestor.md"
   ]
