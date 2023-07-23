@@ -57,6 +57,7 @@
 - Magnetic pickup tool (cheapest works great)
 - Something to hold the fork oil to be disposed of
 - 10W Honda Fork Oil 
+- 2 zip ties
 
 ### Torque references:
 - 6mm hex key bolts on handlebars: **27 Nm**
