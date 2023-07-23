@@ -1,5 +1,30 @@
 # Changing the fork oil
 
+1. [[#Videos|Videos]]
+2. [[#Fiche references|Fiche references]]
+3. [[#Tools, torque specs and manual references|Tools, torque specs and manual references]]
+	1. [[#Tools, torque specs and manual references#New parts "needed" before you start|New parts "needed" before you start]]
+		1. [[#New parts "needed" before you start#Legal says you need new ones of these|Legal says you need new ones of these]]
+	2. [[#Tools, torque specs and manual references#Tools|Tools]]
+	3. [[#Tools, torque specs and manual references#Torque references:|Torque references:]]
+	4. [[#Tools, torque specs and manual references#Manual Reference:|Manual Reference:]]
+4. [[#Procedure|Procedure]]
+	1. [[#Procedure#Check the fork seals|Check the fork seals]]
+	2. [[#Procedure#(Recommended) Prepare for disassembly|(Recommended) Prepare for disassembly]]
+	3. [[#Procedure#Remove the front wheel|Remove the front wheel]]
+	4. [[#Procedure#Remove the wheel speed sensor|Remove the wheel speed sensor]]
+	5. [[#Procedure#Remove the brake caliper|Remove the brake caliper]]
+	6. [[#Procedure#(Optional) Undo the handlebars|(Optional) Undo the handlebars]]
+		1. [[#(Optional) Undo the handlebars#Reassembly note|Reassembly note]]
+	7. [[#Procedure#Loosen the fork end caps and all pinch bolts|Loosen the fork end caps and all pinch bolts]]
+	8. [[#Procedure#Remove the front fender|Remove the front fender]]
+	9. [[#Procedure#Remove the fork end caps and internal components|Remove the fork end caps and internal components]]
+	10. [[#Procedure#Remove the fork from the triple clamp|Remove the fork from the triple clamp]]
+		1. [[#Remove the fork from the triple clamp#Reassembly note|Reassembly note]]
+	11. [[#Procedure#Replacing the fork oil|Replacing the fork oil]]
+	12. [[#Procedure#Reassembly|Reassembly]]
+
+
 ## Videos
 
 [How To INSTALL Fork Seals WITHOUT Using Seal Driver or Special Tools](https://www.youtube.com/watch?v=xsJaGyiT2DE)
@@ -140,7 +165,7 @@ If the handlebars are in the forward position, you'll need to remove the handleb
 ### Remove the fork from the triple clamp
 1. Slide the fork down and out through the bottom of the triple clamp.
 
-#### Reassembly note:
+#### Reassembly note
 1. There are some rubber covers that sit below below the triple clamp near the fork cap. On reinstallation, these rubber covers didn't always line up perfectly and could easily bunch up and get damaged. Pay extra special attention on the reinstallation step as you line up the headlight bracket, the tripleclamps and the forks on reinstallation
 	- **[MOUNT, FORK COVER (UPPER)](https://www.revzilla.com/oem/honda/honda-51621-k2e-t00-mount-fork-cover-upper)** 51621-K2E-T00
 
