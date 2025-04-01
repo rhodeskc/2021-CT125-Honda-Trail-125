@@ -9,8 +9,9 @@
 > 2. Valve adjustment tool
 > 3. 6mm Hex
 > 4. 10mm Hex
-> 5. 17mm socket
-> 6. Flashlight to easily see top dead center
+> 5. 8mm socket
+> 6. 17mm socket
+> 7. Flashlight to easily see top dead center
 > - Replacement spark plug if needed: Stock [CPR6EA-9](https://www.ngk.com/ngk-6899-cpr6ea-9-nickel-spark-plug) (heat range 6), 10mm thread.
 
 > [!info]- OEM Fiche links
