@@ -155,6 +155,9 @@ If the handlebars are in the forward position, you'll need to remove the handleb
 	- **[BOLT-WASHER (6X14)](https://www.revzilla.com/oem/honda/honda-93401-06014-08-bolt-washer-6x14)** 93401-06014-08
 
 ### Remove the fork end caps and internal components
+
+> [!important] REQUIRED DO NOT SKIP
+>  There's some rubber rings that hold the forks in place just below where the fork cap sits. Before undoing the fork cap, hit the groove with some WD40 to lubricate those rings, so when you pull the forks down they have some lubrication.
 1. **Prereq:** Make sure you have an automotive towel / paper towel ready and wear gloves. Removing the spring SLOWLY will require less cleanup. Having a clean area to place the fork components before you start is a good idea, as is wearing gloves.
 2. Remove the fork end cap with the **17mm socket**.
 3. Remove the three internal components from the fork using the **magnetic pickup tool**. The spring is last, remove that one slowly as it will be coated in oil and will drip it everywhere if you move too quickly. Lay them down in the prepared clean area.
