@@ -9,21 +9,20 @@
 	3. [[#Tools, torque specs and manual references#Torque references:|Torque references:]]
 	4. [[#Tools, torque specs and manual references#Manual Reference:|Manual Reference:]]
 4. [[#Procedure|Procedure]]
-	1. [[#Procedure#Check the fork seals|Check the fork seals]]
-	2. [[#Procedure#(Recommended) Prepare for disassembly|(Recommended) Prepare for disassembly]]
-	3. [[#Procedure#Remove the front wheel|Remove the front wheel]]
-	4. [[#Procedure#Remove the wheel speed sensor|Remove the wheel speed sensor]]
-	5. [[#Procedure#Remove the brake caliper|Remove the brake caliper]]
-	6. [[#Procedure#(Optional) Undo the handlebars|(Optional) Undo the handlebars]]
-		1. [[#(Optional) Undo the handlebars#Reassembly note|Reassembly note]]
-	7. [[#Procedure#Loosen the fork end caps and all pinch bolts|Loosen the fork end caps and all pinch bolts]]
-	8. [[#Procedure#Remove the front fender|Remove the front fender]]
-	9. [[#Procedure#Remove the fork end caps and internal components|Remove the fork end caps and internal components]]
-	10. [[#Procedure#Remove the fork from the triple clamp|Remove the fork from the triple clamp]]
-		1. [[#Remove the fork from the triple clamp#Reassembly note|Reassembly note]]
-	11. [[#Procedure#Replacing the fork oil|Replacing the fork oil]]
-	12. [[#Procedure#Reassembly|Reassembly]]
-
+	5. [[#Procedure#Check the fork seals|Check the fork seals]]
+	6. [[#Procedure#(Recommended) Prepare for disassembly|(Recommended) Prepare for disassembly]]
+	7. [[#Procedure#Remove the front wheel|Remove the front wheel]]
+	8. [[#Procedure#Remove the wheel speed sensor|Remove the wheel speed sensor]]
+	9. [[#Procedure#Remove the brake caliper|Remove the brake caliper]]
+	10. [[#Procedure#(Optional) Undo the handlebars|(Optional) Undo the handlebars]]
+		2. [[#(Optional) Undo the handlebars#Reassembly note|Reassembly note]]
+	11. [[#Procedure#Loosen the fork end caps and all pinch bolts|Loosen the fork end caps and all pinch bolts]]
+	12. [[#Procedure#Remove the front fender|Remove the front fender]]
+	13. [[#Procedure#Remove the fork end caps and internal components|Remove the fork end caps and internal components]]
+	14. [[#Procedure#Remove the fork from the triple clamp|Remove the fork from the triple clamp]]
+		3. [[#Remove the fork from the triple clamp#Reassembly note|Reassembly note]]
+	15. [[#Procedure#Replacing the fork oil|Replacing the fork oil]]
+	16. [[#Procedure#Reassembly|Reassembly]]
 
 ## Videos
 
@@ -52,7 +51,7 @@
 
 ### Tools
 
-- Painter's tape (to protect fender paint job when removing)
+- 2" Painter's tape (to protect fender paint job when removing)
 - Boxcutter knife/blade to remove the caps over the hex bolts on the handlebar clamp
 - 6mm hex key for bolts in the handlebar holder, P/N 96700-08032-08
 - 17mm socket for fork cap bolt, P/N 90123-KW7-901
@@ -66,6 +65,7 @@
 - Magnetic pickup tool for removing the fork internal components
 - Automotive towels and/or paper towels
 - Cardboard or somewhere clean to lay down the fork components while servicing
+- WD-40 for the fork triple clamp to lubricate the tubes before sliding them down.
 - An oil receptacle for waste oil
 - (Optional) An electric screwdriver with the right drive bits will make this go much faster
 - (Optional) Business card shim to use when reassembling the forks
@@ -91,22 +91,25 @@
 ## Procedure
 
 ### Check the fork seals
+
 1. If you need new forks seals, you'll need additional components before you start. If the fork seals are intact you won't need to replace the seals and can proceed with just changing the oil.
 	- **[SEAL SET, FR. FORK](https://www.revzilla.com/oem/honda/honda-51490-k88-l01-seal-set-fr-fork)** 51490-K88-L01
 
 ### (Recommended) Prepare for disassembly
-1. If undoing the handlebars this will make subsequent steps easier as the handlebars do make the front end slightly more stable when working on it.
-2. The reflector mount near the top of the fork boot uses a **10mm socket**. This will allow easier access to the fork boot band clamps.
-3. The cover for the wheel speed ABS sensor uses 2 JIS/PH screws and can be removed using **a small JIS/PH driver**.
-4. The band clamps on the fork boot can be loosened using the **small JIS/PH driver**.
-5. The bolt holding the guide for the ABS sensor cable bolted to the front fork can be removed using an **8mm socket**.
-6. The handlebar bolts on the upper handlebar holder use **6mm hex keys**.
-7. The wheel speed ABS sensor uses a **10mm socket**.
-8. The wheel axle nuts use **14mm and 19mm sockets**.
-9. Covering the horizontal portion of the fender mounts with **painter's tape** will protect the paint job from damage when removing the fender.
-10. Create a makeshift dipstick using the zip ties. The zip tie has a textured portion with a smooth portion towards the tip; Using the tape measure, measure off 140mm or 5.5 inches to the end of the textured portion with the smooth portion extending to the 6" mark. This will allow you to creep up on the oil mark.
-11. Placing something heavy on the back of the bike or something under the bash plate will lift the front up and make it easier to work on.
-12. **Heavily recommended: Securing the center stand to the bash plate** will ensure if you do accidentally tip the bike too far forward you won't have the bike fall down off the center stand.
+
+1. Crack the nuts for all the bolts while its' on the ground. Especially the brake caliper bolts.
+2. If undoing the handlebars this will make subsequent steps easier as the handlebars do make the front end slightly more stable when working on it.
+3. The reflector mount near the top of the fork boot uses a **10mm socket**. This will allow easier access to the fork boot band clamps.
+4. The cover for the wheel speed ABS sensor uses 2 JIS/PH screws and can be removed using **a small JIS/PH driver**.
+5. The band clamps on the fork boot can be loosened using the **small JIS/PH driver**.
+6. The bolt holding the guide for the ABS sensor cable bolted to the front fork can be removed using an **8mm socket**.
+7. The handlebar bolts on the upper handlebar holder use **6mm hex keys**.
+8. The wheel speed ABS sensor uses a **10mm socket**.
+9. The wheel axle nuts use **14mm and 19mm sockets**.
+10. Covering the horizontal portion of the fender mounts with **painter's tape** will protect the paint job from damage when removing the fender.
+11. Create a makeshift dipstick using the zip ties. The zip tie has a textured portion with a smooth portion towards the tip; Using the tape measure, measure off 140mm or 5.5 inches to the end of the textured portion with the smooth portion extending to the 6" mark. This will allow you to creep up on the oil mark.
+12. Placing something heavy on the back of the bike or something under the bash plate will lift the front up and make it easier to work on.
+13. **Heavily recommended: Securing the center stand to the bash plate** will ensure if you do accidentally tip the bike too far forward you won't have the bike fall down off the center stand.
 
 ### Remove the front wheel
 
@@ -166,13 +169,17 @@ If the handlebars are in the forward position, you'll need to remove the handleb
 	- **[SPRING, FR. FORK (SHOWA)](https://www.revzilla.com/oem/honda/honda-51401-k2e-t01-spring-fr-fork-showa)** 51401-K2E-T01 (looks like a spring)
 
 ### Remove the fork from the triple clamp
+
 1. Slide the fork down and out through the bottom of the triple clamp.
+2. **WARNING:** You're most likely to rock the bike off the center stand at this step. It is HIGHLY recommended to tie the center stand to the front of the bike at this step.
 
 #### Reassembly note
+
 1. There are some rubber covers that sit below below the triple clamp near the fork cap. On reinstallation, these rubber covers didn't always line up perfectly and could easily bunch up and get damaged. Pay extra special attention on the reinstallation step as you line up the headlight bracket, the tripleclamps and the forks on reinstallation
 	- **[MOUNT, FORK COVER (UPPER)](https://www.revzilla.com/oem/honda/honda-51621-k2e-t00-mount-fork-cover-upper)** 51621-K2E-T00
 
 ### Replacing the fork oil
+
 1. **Prereq:** Having the fork oil bottle cap off, plus your measuring tool close by will make this easier. Accept that you will also probably have to pour some back into the container. Have the measuring tape close by to verify the dipstick tool didn't move while filling the fork.
 2. Removing the boot is optional but makes things slightly easier.
 3. With the fork out, tip it upside down and pump the fork a few times to remove all the excess oil.
@@ -186,6 +193,7 @@ If the handlebars are in the forward position, you'll need to remove the handleb
 	- **Manual ref**: 3-23 Fork. [[CT125 Manual References/Trail-125A-Service-Manual.pdf#page=93|Link]]
 
 ### Reassembly
+
 1. **Prereq:** Have the fork end cap, the **17mm socket** on the **torque wrench** set to **22 Nm**, and the **6mm hex key** handy.
 	1. **Clean everything thoroughly.** If you used WD40 to remove the forks, this is a good opportunity to remove any excess.
 2. If you removed the fork boot, at this point put it back over the fork for reassembly.
